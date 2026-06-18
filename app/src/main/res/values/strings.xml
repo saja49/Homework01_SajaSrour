@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework01....Saja srour</string>
+    <string name="title_homework">Homework 1</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="doing_great">You are doing great!</string>
+    <string name="keep_going">Keep going!</string>
+    <string name="nice_day">Have a nice day!</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="well_done">Well done!</string>
+    <string name="keep_learning">Keep learning!</string>
+    <string name="practice">Don\'t forget to practice!</string>
+</resources>
